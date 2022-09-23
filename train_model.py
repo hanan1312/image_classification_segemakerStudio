@@ -164,7 +164,7 @@ def main(args):
     '''
     TODO: Test the model to see its accuracy
     '''
-    for epoch_no in range(1):
+    for epoch_no in range(20):
         logger.info(f"Epoch {epoch_no} - Starting Training phase.")
         model=train(model, train_data_loader, loss_criterion, optimizer, device, hook, epoch_no)
         test(model, test_data_loader, loss_criterion, device, epoch_no, hook)
