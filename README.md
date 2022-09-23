@@ -50,6 +50,6 @@ Remember that your README should:
 * In this exact point i faced some troubles using the suitable instance type for the job, i've got stuck many times but after all i realized that ml.t2.medium would solve it all. and it ran smoothly after that.
 
 **TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
-![Endpoint](screen_shots/end_pointl.png "Endpoint")
+![Endpoint](screen_shots/end_point.png "Endpoint")
 ## Standout Suggestions
 **TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
